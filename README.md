@@ -1,7 +1,7 @@
 - Hi, I’m @Wu Mianzhi
 - I'm a freshman learning Data Science and Engineering in East China Normal University
 - How to reach me ...
-- You can reach me by sending email to wumz03@qq.com
+- You can reach me by sending email to mianzhiwu@stu.ecnu.edu.cn
 - I'll reply quickly... ^_^
 
 <!---
